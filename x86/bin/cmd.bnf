@@ -1,0 +1,9 @@
+﻿#BNF+IAT 1.0 UTF-8;
+
+!grammar cmd;
+!slot <cmd>;
+!start <cmdstart>;
+
+<cmdstart>:<cmd>;
+
+<cmd>:邓紫棋!id(1)|周星驰!id(2)|奥巴马!id(3)|赵丽颖!id(4)|范冰冰!id(5)|华晨宇!id(6)|退出!id(999)|不玩了!id(999);

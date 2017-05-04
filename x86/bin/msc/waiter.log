@@ -1,0 +1,271 @@
+============================================================
+Time  2016/04/21 21:15:06 360 
+============================================================
+[2016/04/21 21:15:06 361] waiter     120  waiter loaded!  
+[2016/04/21 21:15:06 373] waiter     183  start upload timer  
+[2016/04/21 21:15:06 374] waiter     184  false  
+[2016/04/21 21:15:06 375] waiter     196  last gc at  1461244506  
+[2016/04/21 21:15:07 935] waiter     183  start upload timer  
+[2016/04/21 21:15:07 937] waiter     184  true  
+[2016/04/21 21:15:08 776] network    380  redns  def  open.xf-yun.com  
+[2016/04/21 21:15:08 785] waiter     196  last gc at  1461244506  
+[2016/04/21 21:15:08 809] network    173  dns resp  10214  
+[2016/04/21 21:15:08 817] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/04/21 21:15:09 422] waiter     183  start upload timer  
+[2016/04/21 21:15:09 424] waiter     184  true  
+[2016/04/21 21:15:10 820] waiter     183  start upload timer  
+[2016/04/21 21:15:10 821] waiter     184  true  
+[2016/04/21 21:15:11 674] network    380  redns  def  open.xf-yun.com  
+[2016/04/21 21:15:11 688] waiter     196  last gc at  1461244506  
+[2016/04/21 21:15:11 713] network    173  dns resp  10214  
+[2016/04/21 21:15:11 722] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/04/21 21:15:12 536] waiter     183  start upload timer  
+[2016/04/21 21:15:12 552] waiter     184  true  
+[2016/04/21 21:15:14 193] waiter     183  start upload timer  
+[2016/04/21 21:15:14 195] waiter     184  true  
+[2016/04/21 21:15:14 531] network    380  redns  def  open.xf-yun.com  
+[2016/04/21 21:15:14 543] waiter     196  last gc at  1461244506  
+[2016/04/21 21:15:14 565] network    173  dns resp  10214  
+[2016/04/21 21:15:14 584] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/04/21 21:15:16 365] waiter     183  start upload timer  
+[2016/04/21 21:15:16 373] waiter     184  true  
+[2016/04/21 21:15:17 411] network    380  redns  def  open.xf-yun.com  
+[2016/04/21 21:15:17 414] waiter     196  last gc at  1461244506  
+[2016/04/21 21:15:17 421] network    173  dns resp  10214  
+[2016/04/21 21:15:17 423] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/04/21 21:15:17 513] waiter     183  start upload timer  
+[2016/04/21 21:15:17 515] waiter     184  true  
+[2016/04/21 21:15:19 601] waiter     183  start upload timer  
+[2016/04/21 21:15:19 604] waiter     184  true  
+[2016/04/21 21:15:21 521] network    380  redns  def  open.xf-yun.com  
+[2016/04/21 21:15:21 529] waiter     196  last gc at  1461244506  
+[2016/04/21 21:15:21 543] network    173  dns resp  10214  
+[2016/04/21 21:15:21 552] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/04/21 21:15:22 465] waiter     183  start upload timer  
+[2016/04/21 21:15:22 469] waiter     184  true  
+[2016/04/21 21:15:23 760] network    380  redns  def  open.xf-yun.com  
+[2016/04/21 21:15:23 777] waiter     196  last gc at  1461244506  
+[2016/04/21 21:15:23 795] network    173  dns resp  10214  
+[2016/04/21 21:15:23 802] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/04/21 21:15:24 668] waiter     183  start upload timer  
+[2016/04/21 21:15:24 672] waiter     184  true  
+[2016/04/21 21:15:26 837] waiter     183  start upload timer  
+[2016/04/21 21:15:26 846] waiter     184  true  
+[2016/04/21 21:15:28 941] waiter     183  start upload timer  
+[2016/04/21 21:15:28 982] waiter     184  true  
+[2016/04/21 21:15:30 874] waiter     183  start upload timer  
+[2016/04/21 21:15:30 877] waiter     184  true  
+[2016/04/21 21:15:32 303] waiter     183  start upload timer  
+[2016/04/21 21:15:32 306] waiter     184  true  
+[2017/04/21 21:15:38 029] waiter     183  start upload timer  
+[2017/04/21 21:15:38 033] waiter     184  true  
+[2017/04/21 21:15:39 357] waiter     183  start upload timer  
+[2017/04/21 21:15:39 361] waiter     184  true  
+[2017/04/21 21:15:40 934] waiter     183  start upload timer  
+[2017/04/21 21:15:40 936] waiter     184  true  
+[2017/04/21 21:15:42 152] waiter     183  start upload timer  
+[2017/04/21 21:15:42 155] waiter     184  true  
+[2017/04/21 21:15:43 691] waiter     183  start upload timer  
+[2017/04/21 21:15:43 693] waiter     184  true  
+[2017/04/21 21:15:45 078] waiter     183  start upload timer  
+[2017/04/21 21:15:45 079] waiter     184  true  
+[2017/04/21 21:15:46 281] waiter     183  start upload timer  
+[2017/04/21 21:15:46 283] waiter     184  true  
+[2017/04/21 21:15:47 748] waiter     183  start upload timer  
+[2017/04/21 21:15:47 751] waiter     184  true  
+[2017/04/21 21:15:48 925] waiter     183  start upload timer  
+[2017/04/21 21:15:48 929] waiter     184  true  
+[2017/04/21 21:15:50 347] waiter     183  start upload timer  
+[2017/04/21 21:15:50 349] waiter     184  true  
+[2017/04/21 21:15:51 842] waiter     183  start upload timer  
+[2017/04/21 21:15:51 846] waiter     184  true  
+[2017/04/21 21:15:53 198] waiter     183  start upload timer  
+[2017/04/21 21:15:53 200] waiter     184  true  
+[2017/04/21 21:15:54 501] waiter     183  start upload timer  
+[2017/04/21 21:15:54 503] waiter     184  true  
+[2017/04/21 21:15:55 710] waiter     183  start upload timer  
+[2017/04/21 21:15:55 712] waiter     184  true  
+[2017/04/21 21:15:57 078] waiter     183  start upload timer  
+[2017/04/21 21:15:57 082] waiter     184  true  
+[2017/04/21 21:15:58 469] waiter     183  start upload timer  
+[2017/04/21 21:15:58 471] waiter     184  true  
+[2017/04/21 21:15:59 851] waiter     183  start upload timer  
+[2017/04/21 21:15:59 854] waiter     184  true  
+[2017/04/21 21:16:01 262] waiter     183  start upload timer  
+[2017/04/21 21:16:01 265] waiter     184  true  
+[2017/04/21 21:16:02 413] waiter     183  start upload timer  
+[2017/04/21 21:16:02 416] waiter     184  true  
+[2017/04/21 21:16:03 854] waiter     183  start upload timer  
+[2017/04/21 21:16:03 856] waiter     184  true  
+[2017/04/21 21:16:05 224] waiter     183  start upload timer  
+[2017/04/21 21:16:05 236] waiter     184  true  
+[2017/04/21 21:16:06 629] waiter     183  start upload timer  
+[2017/04/21 21:16:06 632] waiter     184  true  
+[2017/04/21 21:16:08 070] waiter     183  start upload timer  
+[2017/04/21 21:16:08 073] waiter     184  true  
+[2017/04/21 21:16:09 357] waiter     183  start upload timer  
+[2017/04/21 21:16:09 360] waiter     184  true  
+[2017/04/21 21:16:10 674] waiter     183  start upload timer  
+[2017/04/21 21:16:10 676] waiter     184  true  
+[2017/04/21 21:16:12 123] waiter     183  start upload timer  
+[2017/04/21 21:16:12 124] waiter     184  true  
+[2017/04/21 21:16:13 425] waiter     183  start upload timer  
+[2017/04/21 21:16:13 427] waiter     184  true  
+[2017/04/21 21:16:14 742] waiter     183  start upload timer  
+[2017/04/21 21:16:14 744] waiter     184  true  
+[2017/04/21 21:16:16 031] waiter     183  start upload timer  
+[2017/04/21 21:16:16 032] waiter     184  true  
+[2017/04/21 21:16:17 611] waiter     183  start upload timer  
+[2017/04/21 21:16:17 695] waiter     184  true  
+[2017/04/21 21:16:18 794] waiter     183  start upload timer  
+[2017/04/21 21:16:18 796] waiter     184  true  
+[2017/04/21 21:16:20 221] waiter     183  start upload timer  
+[2017/04/21 21:16:20 223] waiter     184  true  
+[2017/04/21 21:16:21 547] waiter     183  start upload timer  
+[2017/04/21 21:16:21 549] waiter     184  true  
+[2017/04/21 21:16:22 723] waiter     183  start upload timer  
+[2017/04/21 21:16:22 725] waiter     184  true  
+[2017/04/21 21:16:24 180] waiter     183  start upload timer  
+[2017/04/21 21:16:24 203] waiter     184  true  
+[2017/04/21 21:16:25 396] waiter     183  start upload timer  
+[2017/04/21 21:16:25 398] waiter     184  true  
+[2017/04/21 21:16:26 726] waiter     183  start upload timer  
+[2017/04/21 21:16:26 729] waiter     184  true  
+[2017/04/21 21:16:28 043] waiter     183  start upload timer  
+[2017/04/21 21:16:28 046] waiter     184  true  
+[2017/04/21 21:16:29 262] waiter     183  start upload timer  
+[2017/04/21 21:16:29 263] waiter     184  true  
+[2017/04/21 21:16:30 545] waiter     183  start upload timer  
+[2017/04/21 21:16:30 548] waiter     184  true  
+[2017/04/21 21:16:32 046] waiter     183  start upload timer  
+[2017/04/21 21:16:32 047] waiter     184  true  
+[2017/04/21 21:16:33 285] waiter     183  start upload timer  
+[2017/04/21 21:16:33 288] waiter     184  true  
+[2017/04/21 21:16:34 622] waiter     183  start upload timer  
+[2017/04/21 21:16:34 624] waiter     184  true  
+[2017/04/21 21:16:36 031] waiter     183  start upload timer  
+[2017/04/21 21:16:36 040] waiter     184  true  
+[2017/04/21 21:16:37 431] waiter     183  start upload timer  
+[2017/04/21 21:16:37 433] waiter     184  true  
+[2017/04/21 21:16:38 747] waiter     183  start upload timer  
+[2017/04/21 21:16:38 749] waiter     184  true  
+[2017/04/21 21:16:40 041] waiter     183  start upload timer  
+[2017/04/21 21:16:40 042] waiter     184  true  
+[2017/04/21 21:16:41 595] waiter     183  start upload timer  
+[2017/04/21 21:16:41 597] waiter     184  true  
+[2017/04/21 21:16:42 962] waiter     183  start upload timer  
+[2017/04/21 21:16:42 963] waiter     184  true  
+[2017/04/21 21:16:44 217] waiter     183  start upload timer  
+[2017/04/21 21:16:44 218] waiter     184  true  
+[2017/04/21 21:16:45 677] waiter     183  start upload timer  
+[2017/04/21 21:16:45 679] waiter     184  true  
+[2017/04/21 21:16:46 911] waiter     183  start upload timer  
+[2017/04/21 21:16:46 912] waiter     184  true  
+[2017/04/21 21:16:48 423] waiter     183  start upload timer  
+[2017/04/21 21:16:48 425] waiter     184  true  
+[2017/04/21 21:16:49 641] waiter     183  start upload timer  
+[2017/04/21 21:16:49 642] waiter     184  true  
+[2017/04/21 21:16:51 224] waiter     183  start upload timer  
+[2017/04/21 21:16:51 239] waiter     184  true  
+[2017/04/21 21:16:52 644] waiter     183  start upload timer  
+[2017/04/21 21:16:52 646] waiter     184  true  
+[2017/04/21 21:16:53 973] waiter     183  start upload timer  
+[2017/04/21 21:16:53 975] waiter     184  true  
+[2017/04/21 21:16:55 245] waiter     183  start upload timer  
+[2017/04/21 21:16:55 247] waiter     184  true  
+[2017/04/21 21:16:56 632] waiter     183  start upload timer  
+[2017/04/21 21:16:56 634] waiter     184  true  
+[2017/04/21 21:16:57 993] waiter     183  start upload timer  
+[2017/04/21 21:16:57 996] waiter     184  true  
+[2017/04/21 21:16:59 450] waiter     183  start upload timer  
+[2017/04/21 21:16:59 453] waiter     184  true  
+[2017/04/21 21:17:00 702] waiter     183  start upload timer  
+[2017/04/21 21:17:00 704] waiter     184  true  
+[2017/04/21 21:17:01 876] waiter     183  start upload timer  
+[2017/04/21 21:17:01 878] waiter     184  true  
+[2017/04/21 21:17:03 248] waiter     183  start upload timer  
+[2017/04/21 21:17:03 251] waiter     184  true  
+[2017/04/21 21:17:04 498] waiter     183  start upload timer  
+[2017/04/21 21:17:04 500] waiter     184  true  
+[2017/04/21 21:17:05 596] waiter     183  start upload timer  
+[2017/04/21 21:17:05 598] waiter     184  true  
+[2017/04/21 21:17:06 901] waiter     183  start upload timer  
+[2017/04/21 21:17:06 903] waiter     184  true  
+[2017/04/21 21:17:08 292] waiter     183  start upload timer  
+[2017/04/21 21:17:08 296] waiter     184  true  
+[2017/04/21 21:17:09 562] waiter     183  start upload timer  
+[2017/04/21 21:17:09 563] waiter     184  true  
+[2017/04/21 21:17:10 826] waiter     183  start upload timer  
+[2017/04/21 21:17:10 828] waiter     184  true  
+[2017/04/21 21:17:12 167] waiter     183  start upload timer  
+[2017/04/21 21:17:12 169] waiter     184  true  
+[2017/04/21 21:17:13 416] waiter     183  start upload timer  
+[2017/04/21 21:17:13 420] waiter     184  true  
+[2017/04/21 21:17:14 607] waiter     183  start upload timer  
+[2017/04/21 21:17:14 608] waiter     184  true  
+[2017/04/21 21:17:15 907] waiter     183  start upload timer  
+[2017/04/21 21:17:15 909] waiter     184  true  
+[2017/04/21 21:17:17 310] waiter     183  start upload timer  
+[2017/04/21 21:17:17 313] waiter     184  true  
+[2017/04/21 21:17:18 602] waiter     183  start upload timer  
+[2017/04/21 21:17:18 605] waiter     184  true  
+[2017/04/21 21:17:19 885] waiter     183  start upload timer  
+[2017/04/21 21:17:19 888] waiter     184  true  
+[2017/04/21 21:17:21 238] waiter     183  start upload timer  
+[2017/04/21 21:17:21 240] waiter     184  true  
+[2017/04/21 21:17:22 738] waiter     183  start upload timer  
+[2017/04/21 21:17:22 740] waiter     184  true  
+[2017/04/21 21:17:23 975] waiter     183  start upload timer  
+[2017/04/21 21:17:23 977] waiter     184  true  
+[2017/04/21 21:17:25 208] waiter     183  start upload timer  
+[2017/04/21 21:17:25 211] waiter     184  true  
+[2017/04/21 21:17:26 482] waiter     183  start upload timer  
+[2017/04/21 21:17:26 484] waiter     184  true  
+[2017/04/21 21:17:27 725] waiter     183  start upload timer  
+[2017/04/21 21:17:27 727] waiter     184  true  
+[2017/04/21 21:17:28 973] waiter     183  start upload timer  
+[2017/04/21 21:17:28 977] waiter     184  true  
+[2017/04/21 21:17:30 059] waiter     183  start upload timer  
+[2017/04/21 21:17:30 060] waiter     184  true  
+[2017/04/21 21:17:31 514] waiter     183  start upload timer  
+[2017/04/21 21:17:31 518] waiter     184  true  
+[2017/04/21 21:17:32 708] waiter     183  start upload timer  
+[2017/04/21 21:17:32 710] waiter     184  true  
+[2017/04/21 21:17:34 223] waiter     183  start upload timer  
+[2017/04/21 21:17:34 250] waiter     184  true  
+[2017/04/21 21:17:35 527] waiter     183  start upload timer  
+[2017/04/21 21:17:35 535] waiter     184  true  
+[2017/04/21 21:17:36 831] waiter     183  start upload timer  
+[2017/04/21 21:17:36 833] waiter     184  true  
+[2017/04/21 21:17:38 101] waiter     183  start upload timer  
+[2017/04/21 21:17:38 103] waiter     184  true  
+[2017/04/21 21:17:39 352] waiter     183  start upload timer  
+[2017/04/21 21:17:39 359] waiter     184  true  
+[2017/04/21 21:17:40 699] waiter     183  start upload timer  
+[2017/04/21 21:17:40 705] waiter     184  true  
+[2017/04/21 21:17:42 109] waiter     183  start upload timer  
+[2017/04/21 21:17:42 135] waiter     184  true  
+[2017/04/21 21:17:43 576] waiter     183  start upload timer  
+[2017/04/21 21:17:43 594] waiter     184  true  
+[2017/04/21 21:17:44 895] waiter     183  start upload timer  
+[2017/04/21 21:17:44 897] waiter     184  true  
+[2017/04/21 21:17:46 295] waiter     183  start upload timer  
+[2017/04/21 21:17:46 303] waiter     184  true  
+[2017/04/21 21:17:47 633] waiter     183  start upload timer  
+[2017/04/21 21:17:47 636] waiter     184  true  
+[2017/04/21 21:17:48 995] waiter     183  start upload timer  
+[2017/04/21 21:17:49 000] waiter     184  true  
+[2017/04/21 21:17:50 398] waiter     183  start upload timer  
+[2017/04/21 21:17:50 399] waiter     184  true  
+[2017/04/21 21:17:51 823] waiter     183  start upload timer  
+[2017/04/21 21:17:51 839] waiter     184  true  
+[2017/04/21 21:17:53 422] waiter     183  start upload timer  
+[2017/04/21 21:17:53 491] waiter     184  true  
+[2017/04/21 21:17:54 739] waiter     183  start upload timer  
+[2017/04/21 21:17:54 740] waiter     184  true  
+[2017/04/21 21:17:56 375] waiter     183  start upload timer  
+[2017/04/21 21:17:56 381] waiter     184  true  
+[2017/04/21 21:17:58 521] waiter     183  start upload timer  
+[2017/04/21 21:17:58 540] waiter     184  true  
+[2017/04/21 21:18:00 436] waiter     183  start upload timer  
+[2017/04/21 21:18:00 439] waiter     184  true  
